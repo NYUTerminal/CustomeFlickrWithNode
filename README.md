@@ -9,3 +9,9 @@ Steps to run:<br>
 4)Open your browser and you can do below tasks.<br>
     a)Ex1: <b>http://localhost:7001/sunset</b>  - will search for "sunset" images through Flickr API.<br>
     b)Ex2: <b>http://localhost:7001/sunset/5</b>  - will search for "sunset" but retrieves only 5 images from Flickr API.<br>
+
+<br>
+Reference : <br>
+https://www.flickr.com/services/api/misc.urls.html<br>
+http://bigspaceship.github.io/blog/2014/05/14/how-to-create-a-rest-api-with-node-dot-js/<br>
+http://www.codexpedia.com/node-js/node-js-http-server-displaying-images-from-a-directory/<br>
